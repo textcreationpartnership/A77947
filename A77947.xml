@@ -1,0 +1,138 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>For the souldiers, and all the officers of England, Scotland and Ireland a warning from the Lord, that they forget not his kindness, but call to mind his mercies, and their own promises.</title>
+            <author>Burrough, Edward, 1634-1662.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1654</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A77947</idno>
+            <idno type="STC">Wing B6003</idno>
+            <idno type="STC">Thomason 669.f.19[9]</idno>
+            <idno type="STC">ESTC R212021</idno>
+            <idno type="EEBO-CITATION">99870678</idno>
+            <idno type="PROQUEST">99870678</idno>
+            <idno type="VID">163347</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A77947)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 163347)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 246:669f19[9])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>For the souldiers, and all the officers of England, Scotland and Ireland a warning from the Lord, that they forget not his kindness, but call to mind his mercies, and their own promises.</title>
+                  <author>Burrough, Edward, 1634-1662.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1654]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: My name in the flesh is Edward Burrough, one of them whom the world calls Quakers.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Annotation on Thomason copy: "London. 7ber [i.e. September] 26. 1654".</note>
+                  <note>Second page consists of ms. note from Thomason: "These pampholetts [sic] went out this last Parliament..."</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Soldiers --  Conduct of life --  Early works to 1800.</term>
+               <term>Great Britain --  Armed forces --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-04</date>
+            <label>Sarah Wingo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-04</date>
+            <label>Sarah Wingo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:163347:1" rendition="simple:additions"/>
+            <pb facs="tcp:163347:2" rendition="simple:additions"/>
+            <head>For the Souldiers, and all the Officers of <hi>England, Scotland</hi> and <hi>Ireland,</hi> a warning from the Lord, that they forget not his kindneſs, but call to mind his mercies, and their own promiſes.</head>
+            <p>
+               <seg rend="decorInit">A</seg>LL ye Governers, Captains, Officers and Souldiers, to you all am I moved to write, and clear my Conſcience, and declare the word of the Lord; The mercies of the Lord have been great towards you, by his power hath he ſubdued your enemies in the Nations before you, and given you victory over them. Now to that in all your Conſciences I do ſpeak; Conſider how you walk anſwerable in obedience to the Lord, from whom you have had power to overcome your enemies; conſider if you be not requiting the Lord evil for all his mercies? O I am preſſed to conſider and ſee! what ſeeking of your ſelves? and what exalta<g ref="char:EOLhyphen"/>tion of your ſelves is amongſt you? O what pride and high-mindedneſs, and luſts of the fleſh is to be ſeen in you? O what vain and wanton minds, and careleſs ſpirits doth appear from you? Dreadfull will the appearance of the Lord of Hoaſts be unto you in requiring his mercies, and how you have improved them, which you have received from him; O the righteous ſeed of God is oppreſſed in you, and the juſt lies ſlain under the powers of the man of ſin, which rules in many of you, above all that is called God; you have well n<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>gh forgotten the mercies of the Lord, which gave you power over your enemies, and your hearts are overcome with pride, and ſeeking the honor, and treaſure, and glory of this world, and even with <hi>Jeſurum</hi> you are waxed fat, and kick againſt the Lord; ſome are pulled down, others are ſet up; but the ſame nature ſtands ſtill, which is at enmity with God, and the ſame Laws ſtand ſtill, by which the Lords people (for conſcience ſake) do ſuffer, and the ſame falſe Prophets ſtand ſtill, which deceive the Nations, and by corrupt Laws (which you have pretended to fight againſt) are they upholden, and the ſpirit of the Lords people limited, and the ſame oppreſſing Lawyers ſtand ſtill, which grinds the face of the poor. O conſider, and perform your Covenant to the Lord, which you made to him in the day of your diſtreſs, when you were little in your own eyes; leſt the wrath of the Almighty come upon you, and you be ſcattered and driven away before the power of the Lord, as your enemies have been before you. Liber<g ref="char:EOLhyphen"/>ty to tender conſciences, and to take away the oppreſſing Laws was your pretence; But how little is it yet accompliſhed? For great is and hath been the ſufferings of the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ords People in the North parts of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> under corrupt Laws, even by ſuch as were made in Queen <hi>Maries</hi> days, to uphold Popery; for the Teſtimony of a pure conſcience, hath and doth many ſuffer by ſuch Laws, and under ſuch men which have been your open enemies; even ſuch men which have been in actual Arms againſt you, are now ex<g ref="char:EOLhyphen"/>alted, and put in Authority, and with Tiranny Rule over the Lords people, which have been faithful and ſerviceable to you; and for the good of the Nations to eſtabliſh them in Righteouſneſs; Conſider, its time to weigh theſe things, you are at eaſe in your luſts and pleaſures, and many of you are wofully fallen from that zeal for truth, which once was really in you, and now forget to perform the Covenant of the Lord, and liberty to the pure Conſcience you have not yet attained; but you walk in the liberty of your Wills, and Luſts, and Deſires, and that nature keeps in bondage in you, that which ſhould ſet free the Conſcience to ſerve the Lord; and many of thoſe whom it hath pleaſed the Lord by his power to ſet free that in their Conſcience, to ſerve and worſhip him, are now oppreſſed and ſuffer under corrupt Laws, which is acted by the corrupt wills of corrupt men, and liberty of Conſcience is not, nor can be attained by the power of an outward ſword, but by the light of Jeſus Chriſt, which is the ſword which cuts down the man of ſin, and power of darkneſs, which keeps in bondage that in the Conſcience which would bring it to Li<g ref="char:EOLhyphen"/>berty. And though it be not in your power, nor in the power of man to perform what you have promiſed; yet ſuch a work, and ſo much power hath the Lord intruſted in your hands, which you neglect, and do not improve; for which the Lord of Hoaſts will plead with you, and bring miſery and condemnation upon you; He hath ſaid it, who will perform his word. And now hath the Lord God of power drawn his ſword, and a new open war is proclaimed in the North parts of <hi>England,</hi> even betwixt <hi>Michael</hi> our Prince, and the <hi>Dragon;</hi> The Trumpet of the Lord is ſounding, and he is appearing in his power for the deliverance of <hi>Sion,</hi> which hath long lain in Captivity; and he will gather his flock out of the mouths of all dumb ſhep<g ref="char:EOLhyphen"/>herds, which hath for many Generations made a prey upon them; the Lord hath ſet up his ſtandard to gather his men of war together, to fight his Battle againſt the enemies of <hi>Sion,</hi> the deceivers of the Nati<g ref="char:EOLhyphen"/>ons, and the Lord will by his own power accompliſh that which you have not been able: Wo, wo and miſery, lamentation, and howling, a voice of war and rumor is coming upon the Beaſt and the falſe Pro<g ref="char:EOLhyphen"/>phet, and upon corrupt Laws and Rulers, the decree of the Lord of Hoaſts is gone forth againſt all the Deceivers, both of Rulers, Teachers and People; and he will make their ſhame, and their whoredoms and witchcrafts appear in the eyes of all his people, and will ſet his people to Triumph over their heads, and to rejoyce in their downfall, the hand of the Lord is ſtretched out againſt them, to make a deſtruction among them, and wo unto them which takes their part to uphold them; they that help, and they that are holpen ſhall both ſall together: for the Lord hath a controverſie with them, and with them will he plead by his terrible judgements; The Teachers have devoured ſouls for diſhoneſt gain, and made a trade upon the holy Scriptures, and walked in the footſteps of their <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>orefathers, the falſe Prophets of <hi>Iſrael;</hi> and the Rulers, and Lawyers have done violence, and oppreſſed the innocent, and trodden the poor underfoot: Therefore ye Souldiers take warning, this is the Word of the Lord to you all; Uphold them nor, leſt with them you fall before the power of the Lord, which is making it ſelf manifeſt in the Saints, to cut them down Branch and Root; to that in all your Conſciences I do ſpeak; all ye Officers and Souldiers, fear the living God, and Repent of your Pride and ſelf-exaltation, and hard-heartedneſs, and prize the mercies of the Lord, which you have received, and all the honeſt-hearted wait upon the Lord, in the light where<g ref="char:EOLhyphen"/>with Jeſus Chriſt hath lightned every one of you; the light in your Conſciences, (according to its meaſure) ſhews you what is according to the will of God, and what is contrary to his will, and bears witneſs to what I ſay, it Judges you in ſecret, for your actions which are contrary to a pure Conſcience; So turn your minds inward to the light, and wait to be taught of the Lord, that as his power hath appeared for you, in giving you Victory over your enemies without you; ſo his power may be made manifeſt in you, to give you victo<g ref="char:EOLhyphen"/>ry over the man of ſin (which leads you into pride, and to ſeek your ſelves) which is your enemy within you; the Lord hath a ſeed amongſt you, which he will ſet free and deliver to ſerve his name; So be you all warned, for to you all I have cleared my Conſcience, and ſpoke the word of the Lord, whether you will hear or forbear, and when that witneſs of God in your Conſciences d<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>th ariſe, eternally ſhall it witneſs me; And let you ſee that I have ſpoken the truth, and that you are guilty of Covenant-breaking.</p>
+            <closer>
+               <dateline>This was I moved to write to the <hi>Engliſh</hi> Army in <hi>England, Scotland</hi> and <hi>Ireland;</hi> and to them all it is the word of the Lord.</dateline>
+               <signed> My name in the fleſh is <hi>Edward Burrough,</hi> one of them whom the world calls Quakers.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
